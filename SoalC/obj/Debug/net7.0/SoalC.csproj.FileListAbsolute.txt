@@ -1,0 +1,14 @@
+E:\Project\LPS\Soal_test_B_E\SoalC\bin\Debug\net7.0\SoalC.deps.json
+E:\Project\LPS\Soal_test_B_E\SoalC\bin\Debug\net7.0\SoalC.dll
+E:\Project\LPS\Soal_test_B_E\SoalC\bin\Debug\net7.0\SoalC.pdb
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.AssemblyInfoInputs.cache
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.AssemblyInfo.cs
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.csproj.CoreCompileInputs.cache
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.dll
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\refint\SoalC.dll
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.pdb
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\ref\SoalC.dll
+E:\Project\LPS\Soal_test_B_E\SoalC\bin\Debug\net7.0\SoalC.exe
+E:\Project\LPS\Soal_test_B_E\SoalC\bin\Debug\net7.0\SoalC.runtimeconfig.json
+E:\Project\LPS\Soal_test_B_E\SoalC\obj\Debug\net7.0\SoalC.genruntimeconfig.cache
