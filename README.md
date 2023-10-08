@@ -10,7 +10,7 @@ ex: E:\PROJECT\DOTNET\LPS\MSBU_Soal_Test_B_E>cd .\SoalB\ \
 5.Maka akan keluar hasil Ouput seperti berikut\
 ![image](https://github.com/willytaufik/MSBU_TEST_B_E/assets/7637864/15ced3ca-58cf-4e85-8fc8-767123899d64)\
 
-<b>ulangi step 3 dan 4 untuk menjalankan project yang lainnya</b>\
+<b>ulangi step 3 dan 4 untuk menjalankan project yang lainnya</b>
 
 #Screenshoot hasil output masing-masing jawaban\
 1.Soal B\
